@@ -34,6 +34,7 @@ Tema: Urbane indikatorer: grønt, gatenett og befolkningstetthet i Grunerløkka 
 
 ### Tanker om ekstrapoeng
 - Kjøre verktøyet for alle Oslos bydeler med parameterbytte og rangering.
+- Eventuelt legge til flere indikatorer eller analyser om tid og kapasitet tillater det.
 
 ## Arbeidsplan med 4 hovedtrinn (f.eks. ett trinn per uke)
 1. Formuler spørsmål endelig. Hent og test alle data, og sjekk CRS. Filstruktur.

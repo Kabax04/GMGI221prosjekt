@@ -1,0 +1,1 @@
+# Denne filen vil inneholde funksjoner
